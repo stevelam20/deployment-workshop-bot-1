@@ -5,6 +5,9 @@
 - good morning
 - good evening
 - hey there
+- yoyo
+- hey yo
+- bello
 
 ## intent:goodbye
 - bye
@@ -26,6 +29,7 @@
 - don't like that
 - no way
 - not really
+- nope
 
 ## intent:mood_great
 - perfect
@@ -36,6 +40,8 @@
 - I am feeling very good
 - I am great
 - I'm good
+- i am great
+- good
 
 ## intent:mood_unhappy
 - sad
@@ -48,6 +54,11 @@
 - not very good
 - extremely sad
 - so sad
+- not good
+- sucks
+- suckssssssssss
+- suck
+- solemn
 
 ## intent:bot_challenge
 - are you a bot?
